@@ -3,9 +3,9 @@
 
  ## Keyboard controls
  - To enter numbers and operators in to the calculator, you can press their respective keys on keyboard
- - C Button - ESC Key
- - CE Button - Backspace/Delete key
- - "=" Button - Enter Key
+ - C Button - Clear 
+ - CE Button - Backspace/Delete 
+ - "=" Button - Enter 
 
  ![Calculator](./images/sample.png)
 
