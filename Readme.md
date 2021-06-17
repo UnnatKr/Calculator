@@ -10,7 +10,7 @@
  ![Calculator](./images/sample.png)
 
  ## Try it out
- []()
+ [https://unnatkr.github.io/Calculator/](https://unnatkr.github.io/Calculator/)
 
  ## Technolgies used:
  - HTML
